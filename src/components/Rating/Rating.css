@@ -1,0 +1,11 @@
+.star-rating {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    margin-left: 5px;
+    gap: 3px;
+}
+p.renderStars {
+    font-size: 20px;
+    margin-bottom: 25px;
+}

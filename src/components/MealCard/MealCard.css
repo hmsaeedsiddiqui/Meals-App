@@ -1,0 +1,21 @@
+/* MealCard.css */
+.meal-card {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .meal-image {
+    width: 100px;
+    height: 100px;
+  }
+  
+  h3 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  p {
+    margin: 5px 0;
+  }
+  
